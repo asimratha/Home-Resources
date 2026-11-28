@@ -1,0 +1,51 @@
+{
+  "version": "1.1.1",
+  "totalSize": "179 MB",
+  "cats": {
+    "baseIdle": "HJM_SC01",
+    "idleSize": "8.5 MB",
+    "totalSize": "102 MB",
+    "actions": [
+      "HJM_SC01",
+      "HJM_SC02",
+      "HJM_SC03",
+      "HJM_SC05",
+      "HJM_SC07",
+      "HJM_SC11",
+      "HJM_SC13",
+      "HJM_SC17",
+      "HJM_SC21",
+      "HJM_SC22",
+      "HJM_SC26",
+      "HJM_SC38",
+      "HJM_SC39",
+      "HJM_SC40",
+      "HJM_SC41",
+      "HJM_SC42"
+    ]
+  },
+  "dogs": {
+    "baseIdle": "HJM_SC01",
+    "idleSize": "5.8 MB",
+    "totalSize": "77 MB",
+    "actions": [
+      "HJM_SC01",
+      "HJM_SC02",
+      "HJM_SC03",
+      "HJM_SC05",
+      "HJM_SC09",
+      "HJM_SC11",
+      "HJM_SC12",
+      "HJM_SC13",
+      "HJM_SC14",
+      "HJM_SC15",
+      "HJM_SC16",
+      "HJM_SC18",
+      "HJM_SC38",
+      "HJM_SC39",
+      "HJM_SC40",
+      "HJM_SC41",
+      "HJM_SC42"
+    ]
+  }
+}
