@@ -1,12 +1,13 @@
 [
-{
-    "id":  "preset_supercar",
-    "name":  "Supercar Speedometer",
-    "author":  "AsimLab",
-    "version":  "1.1.8",
-    "description":  "High-octane cockpit tachometer with 38-step battery \u0026 thermal ladders and 12-digit tumbler odometer.",
-    "bundleFileName":  "Dashboard_Supercar_Speedometer.zip",
-    "downloadUrl":  "https://github.com/asimratha/Home-Resources/releases/download/v1.0.0-assets/Dashboard_Supercar_Speedometer.zip",
-    "approximateSize":  "131 KB"
-}
+  {
+    "id": "preset_supercar",
+    "name": "Supercar Speedometer",
+    "author": "AsimLab",
+    "version": "1.1.8",
+    "description": "High-octane cockpit tachometer with 38-step battery & thermal ladders and 12-digit tumbler odometer.",
+    "bundleFileName": "Dashboard_Supercar_Speedometer.zip",
+    "downloadUrl": "https://cdn.asimlab.in/StandBy_Screen/Dashboards/Dashboard_Supercar_Speedometer.zip",
+    "previewUrl": "https://cdn.asimlab.in/StandBy_Screen/Dashboards/previews/preset_supercar.png",
+    "approximateSize": "131 KB"
+  }
 ]
